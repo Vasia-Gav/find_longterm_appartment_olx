@@ -1,0 +1,5 @@
+bs4>=0.0.1
+aiohttp>=3.8.1
+asyncio>=3.4.3
+argparse>=1.4.0
+pathlib>=1.0.1
